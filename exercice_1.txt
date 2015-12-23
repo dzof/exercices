@@ -1,0 +1,5 @@
+premiere etape : creation des fchiers , commit en local 
+deuxieme etape : compte sur GitHub 
+troisieme etape : configuration du REMOTE 
+quatrieme etape : utiliser git push origin master ( il faut se positionner sur le master )
+cinquieme etape : copier le lien https dans le fichier txt openclassroom et envoyer 
