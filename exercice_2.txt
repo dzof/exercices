@@ -1,6 +1,6 @@
 un commit : 
 versionning 
 tracabilite 
-situation a un moment donne
-solution retenue pourr la suite : un PDF avec des illustrations graphiques
+situation a un moment donnee
+solution retenue pour la suite : un PDF avec des illustrations graphiques
 
